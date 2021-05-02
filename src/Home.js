@@ -1,6 +1,6 @@
 
 
-function Downloads() {
+function Home() {
     return (
         <div>
             <h1 className="display-1 text-center">Chattly</h1>
@@ -9,4 +9,4 @@ function Downloads() {
     );
 }
 
-export default Downloads;
+export default Home;
